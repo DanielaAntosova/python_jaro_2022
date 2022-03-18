@@ -20,12 +20,3 @@ print(overeni_cisla())
 
 
 
-
-
-
-
-'''def total_price(persons, breakfast=False):
-    pricePerPerson = 850
-    if breakfast is True:
-        pricePerPerson += 125
-    return pricePerPerson * persons'''
